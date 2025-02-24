@@ -1,7 +1,8 @@
 # realisez-une-etude-de-sante-publique-avec-R-ou-Python
 
 Vous avez récemment rejoint une équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO), en tant que Data Analyst.
-![Image](https://github.com/user-attachments/assets/5fc2b3a4-8ff9-4f3f-8904-d1d33d2f9a99)
+
+! [Image](https://github.com/user-attachments/assets/5fc2b3a4-8ff9-4f3f-8904-d1d33d2f9a99)
 
 Son rôle ? C’est l’un des organes qui composent l’ONU et dont l’objectif est "d’aider à construire un monde libéré de la faim". 
 
